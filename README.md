@@ -1,3 +1,3 @@
 # PacRunMobile
 
-Templa Run clone created with 
+Temple Run clone created with Unreal Engine. Features Pacman as protagonist.
